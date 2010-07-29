@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Feature: ${1:`#!/usr/bin/env ruby
+	<string>Właściwość: ${1:`#!/usr/bin/env ruby
 	title = (ENV['TM_FILENAME'] || 'title').gsub(/\..*$/, '').gsub(/[-_]/, ' ')
 	puts title[0..0].upcase + title[1..-1].downcase
 	`}
-  In order to ${2:value}
-  As a ${3:role}
-  I want ${4:feature}
+  Jako ${2:rola}
+  Chcę ${3:właściwość}
+  Dzięki temu ${4:wartość}
 
   $0
 </string>

@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Scenario: ${1:title}
-  Given ${2:context}
-  When ${3:event}
-  Then ${4:outcome}
+	<string>Scenariusz: ${1:tytuł}
+  Zakładając ${2:kontekst}
+  Jeżeli ${3:zdarzenie}
+  Wtedy ${4:wynik}
 $0
 $0
 </string>

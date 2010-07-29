@@ -10,18 +10,18 @@
 	<dict>
 		<key>completions</key>
 		<array>
-			<string>As a</string>
-			<string>As an</string>
-			<string>I want to</string>
-			<string>So that</string>
-			<string>Story:</string>
-			<string>Scenario:</string>
-			<string>Scenario Outline:</string>
-			<string>Given</string>
-			<string>Then</string>
-			<string>When</string>
-			<string>And</string>
-			<string>But</string>
+			<string>Jako</string>
+			<string>Jako</string>
+			<string>Chciałbym</string>
+			<string>Dlatego</string>
+			<string>Historia:</string>
+			<string>Scenariusz:</string>
+			<string>Szablon scenariusza:</string>
+			<string>Zakładając</string>
+			<string>Wtedy</string>
+			<string>Jeżeli</string>
+			<string>Oraz</string>
+			<string>Ale</string>
 		</array>
 	</dict>
 	<key>uuid</key>

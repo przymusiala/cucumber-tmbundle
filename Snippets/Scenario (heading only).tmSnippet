@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Scenario: ${1:title}
+	<string>Scenariusz: ${1:title}
 $0
 </string>
 	<key>name</key>

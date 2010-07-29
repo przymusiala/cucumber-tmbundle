@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>When ${1:event}</string>
+	<string>Kiedy ${1:event}</string>
 	<key>name</key>
 	<string>When Step Plaintext</string>
 	<key>scope</key>
